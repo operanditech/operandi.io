@@ -1,4 +1,3 @@
-// import Parser from 'rss-parser'
 import BootstrapVue from 'bootstrap-vue'
 
 export default ({
